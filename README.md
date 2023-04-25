@@ -2,7 +2,8 @@
 
 Welcome to the Jomres Vanilla Quickstarts.
 
-There's one Quickstart for Joomla 4 and one for Wordpress.
+There are two Quickstarts for Joomla 4 and one for Wordpress. Jomres is a portal system, however the Single Property Quickstart demonstrates that it is a fully functional Jomres installation that you can use as a basis for your own online booking website for just one property.
+
 
 [Installation instructions ](https://www.jomres.net/documents/)for Vanilla Quickstarts are the same as for the demo Quickstarts however you do not need to install the plugin manager or do any discovery.
 
@@ -10,11 +11,11 @@ They are fully installed and configured installation of Jomres Core on Joomla an
 
 Jomres powerful, it is somewhere in the region of half a million lines (including libraries and plugins) of code, so it can be daunting for the new user. Using these Quickstarts will help you to get started with Jomres without needing to refer too much to documentation.
 
-# Do I need a Jomres license to use this Quickstart?
+# Do I need a Jomres license to use thesse Quickstarts?
 
-**No, this is a free download, you can use it in whatever way suits your needs.**
+**No, they are free downloads, you can use them in whatever way suits your needs.**
 
-You're welcome to use this Quickstart as a basis for creating your online booking website. Jomres Core is a complete booking system which you can, if you wish, extend through it's plugins however you're free to use this Quickstart as is. Add your own template/theme, or just customise the child template. Add modules/widgets or not, it's up to you. You can even follow the documentation on how to create your own plugins, if you want.
+You're welcome to use these Quickstarts as a basis for creating your online booking website. Jomres Core is a complete booking system which you can, if you wish, extend through it's plugins however you're free to use these Quickstarts as is. Add your own template/theme, or just customise the child template. Add modules/widgets or not, it's up to you. You can even follow the documentation on how to create your own plugins, if you want.
 
 There are a couple of Jomres templates and scripts in the template override directory. These are there mainly to show you how to override Jomres Core templates and Jomres scripts.
 
