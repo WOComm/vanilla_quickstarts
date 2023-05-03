@@ -5,7 +5,7 @@ Welcome to the Jomres Vanilla Quickstarts.
 There are two Quickstarts for Joomla 4 and one for Wordpress. Jomres is a portal system, however the Single Property Quickstart demonstrates that it is a fully functional Jomres installation that you can use as a basis for your own online booking website for just one property.
 
 
-[Installation instructions ](https://www.jomres.net/documents/)for Vanilla Quickstarts are the same as for the demo Quickstarts however you do not need to install the plugin manager or do any discovery.
+[Installation instructions ](https://www.jomres.net/documentation)for Vanilla Quickstarts are the same as for the demo Quickstarts however you do not need to install the plugin manager or do any discovery.
 
 They are fully installed and configured installation of Jomres Core on Joomla and Wordpress. They are a straightforward, bloat-free installation of the CMS, Jomres Core, a handful of it's plugins plus Akeeba Backup. It's purpose is to save you time when setting up a Jomres installation for the first time.
 
